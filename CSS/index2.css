@@ -1,0 +1,65 @@
+.centered{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.medication{
+  background-color: lightgreen;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  color: blue;
+}
+
+.emergency{
+  background-color: #ffb3b3;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.appointments{
+  background-color: lightblue;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.contacts{
+  background-color: lightyellow;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.exercice{
+  background-color: #ffb380;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.request{
+  background-color: #ecb3ff;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.image{
+  background-image: url("../Imagenes/bluefons.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.advertisement{
+  font-size: 30px;
+  font-family: monospace;
+  color: darkblue;
+}
+
+.color{
+  color: red;
+}

@@ -1,0 +1,9 @@
+.title{
+  color: darkblue;
+}
+
+.fondo{
+  background-image: url("../Imagenes/bluefons.jpg") ;
+  background-size: cover;
+  background-attachment: fixed;
+}

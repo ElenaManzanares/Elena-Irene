@@ -1,0 +1,60 @@
+*{
+  text-align: center;
+}
+.centrado {
+  position: absolute;
+  		/*nos posicionamos en el centro del navegador*/
+  		top:40%;
+  		left:40%;
+}
+.password input{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.submit input{
+  margin-top: 60px;
+  text-align: center;
+}
+
+.button {
+  margin-top: 10px;
+  background-color: #0017FF;
+  size: 100px;
+}
+
+#user{
+  margin-top:10px;
+  color: white;
+}
+
+#password{
+  margin-top: 10px;
+}
+.fondo{
+    background-image: url("../Imagenes/bluefons.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.letras{
+  color: white;
+  font-size: 40px;
+}
+#cont-form{
+	display: inline-block;
+	vertical-align:top;
+	width: 188px;
+	height: 400px;
+	padding-left:10px;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.5);}
+
+#formlogin{
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 550px;
+}
+
+.alert{
+  color: blue;
+  font-family: sans-serif;
+}
